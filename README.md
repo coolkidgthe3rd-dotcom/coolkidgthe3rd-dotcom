@@ -1,5 +1,7 @@
 ## Hello, my name is Gary!
 
+I am a college student who wants to become a game developer and is currently learning about Unity and working on free-lancing work related to Unity as well!
+
 - 🌱 I’m currently learning C# and C++...
 - 📫 How to reach me: coolkidgthe3rd@gmail.com (email)
 - 😄 Pronouns: He/Him
