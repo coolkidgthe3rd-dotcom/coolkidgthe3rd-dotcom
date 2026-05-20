@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello, my name is Gary!
+
+- 🌱 I’m currently learning C# and C++...
+- 📫 How to reach me: coolkidgthe3rd@gmail.com (email)
+- 😄 Pronouns: He/Him
+
 
 <!--
 **coolkidgthe3rd-dotcom/coolkidgthe3rd-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
